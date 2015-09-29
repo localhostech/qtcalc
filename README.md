@@ -1,2 +1,2 @@
 # qtcalc
-It's my first Qt application
+It's my first Qt application. For build it use QT Creator.
